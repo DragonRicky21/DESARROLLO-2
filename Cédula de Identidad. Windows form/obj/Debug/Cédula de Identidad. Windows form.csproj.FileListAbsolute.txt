@@ -1,0 +1,11 @@
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula de Identidad. Windows form.csproj.AssemblyReference.cache
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula de Identidad. Windows form.csproj.SuggestedBindingRedirects.cache
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula_de_Identidad.Windows_form.Form1.resources
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula_de_Identidad.Windows_form.Properties.Resources.resources
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula de Identidad. Windows form.csproj.GenerateResource.cache
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula de Identidad. Windows form.csproj.CoreCompileInputs.cache
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\bin\Debug\Cédula_de_Identidad.Windows_form.exe.config
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\bin\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\bin\Debug\Cédula_de_Identidad.Windows_form.pdb
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\yopro\OneDrive\Escritorio\DESARROLLO-2-master\Cédula de Identidad. Windows form\obj\Debug\Cédula_de_Identidad.Windows_form.pdb

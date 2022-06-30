@@ -25,20 +25,19 @@ namespace Cédula_de_Identidad.Windows_form
         List<Usuario> Usuarios = new List<Usuario>();
 
 
-        private void btnCrear_Click(object sender, EventArgs e)
+        private void btnCrear_Click_1(object sender, EventArgs e)
         {
             btnCrear.Enabled = true;
             btnActualizar.Enabled = true;
             btnBorrar.Enabled = true;
             btnSubirFotoPerfil.Enabled = true;
             gbDatos.Enabled = true;
-
         }
-
-        private void btnActualizar_Click(object sender, EventArgs e)
+        private void btnActualizar_Click_1(object sender, EventArgs e)
         {
             ActualizarUsuario();
         }
+        
 
         private void ActualizarUsuario()
         {
@@ -83,7 +82,7 @@ namespace Cédula_de_Identidad.Windows_form
 
             foreach (Control X in gbDatos.Controls)
             {
-                if (X is TextBox or ComboBox)
+                if (X is TextBox )
                 {
                     X.Text = string.Empty;
                 }
@@ -105,10 +104,10 @@ namespace Cédula_de_Identidad.Windows_form
 
         }
 
-        private void btnSubirFotoPerfil_Click(object sender, EventArgs e)
+        private void btnSubirFotoPerfil_Click_1(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = "Image Files (*.png; *.jpg; *.jpeg; *.gif; *.bmp)|*.png; *.jpg; *.jpeg; *.gif; *.bmp";
+            ofd.Filter = "Image File(*.png; *.jpg; *.jpeg; *.gif; *.bmp)|*.png; *.jpg; *.jpeg; *.gif; *.bmp";
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 pbFotoPerfil.Image = new Bitmap(ofd.FileName);
@@ -134,6 +133,16 @@ namespace Cédula_de_Identidad.Windows_form
             this.txtBoxOcupacion.Text = Convert.ToString(selection[8].Value);
             this.dtpFechaExpiracion.Value = Convert.ToDateTime(selection[9].Value);
             this.pbFotoPerfil.Image = (Image)selection[10].Value;
+
+        }
+
+        private void txtBoxCedula_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pbFotoPerfil_Click(object sender, EventArgs e)
+        {
 
         }
     }
