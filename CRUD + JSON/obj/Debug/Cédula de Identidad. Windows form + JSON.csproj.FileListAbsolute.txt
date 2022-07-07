@@ -1,0 +1,28 @@
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.exe.config
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.pdb
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.Form1.resources
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.pdb
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\Cédula de Identidad. Windows forms. + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.CopyComplete
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.Form1.resources
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.Properties.Resources.resources
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula_de_Identidad.Windows_form.pdb
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.exe.config
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.exe
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\bin\Debug\Cédula_de_Identidad.Windows_form.pdb
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ricar\OneDrive\Escritorio\PROGRAMMING\CRUD + JSON\obj\Debug\Cédula de Identidad. Windows form + JSON.csproj.CopyComplete
