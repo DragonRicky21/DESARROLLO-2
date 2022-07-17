@@ -1,0 +1,96 @@
+C:\Users\yopro\source\repos\Consulta\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\yopro\source\repos\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\yopro\source\repos\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.exe
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\yopro\source\repos\Consulta\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yopro\source\repos\Consulta\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\yopro\source\repos\Consulta\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.exe
+C:\Users\user\source\repos\Proyecto-02\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.pdb
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.exe
+C:\Users\yopro\source\repos\Proyecto-02\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.pdb
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.pdb
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\proyecto-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.pdb
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Consulta.pdb
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Categoria.resources
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Concepto.resources
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.csproj.CopyComplete
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.exe
+C:\Users\user\OneDrive\Documentos\Desarrollo-de-Soft.-2\Proyecto 02 (Control de Gastos)\Consulta\obj\Debug\Consulta.pdb
